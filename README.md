@@ -1,7 +1,7 @@
 # dot
 
 This is a cross-platform, single dependency (git), dotfile manager. It borrows a
-lot of the design from (YetAnotherDotfileManager)[https://yadm.io].
+lot of the design from [YetAnotherDotfileManager](https://yadm.io).
 
 ## Features 
 
